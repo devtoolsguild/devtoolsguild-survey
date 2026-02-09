@@ -119,12 +119,11 @@ This survey aims to understand the tools, practices, and challenges faced by Eth
 - [ ] iOS native app
 - [ ] Android native app
 - [ ] Progressive Web App (PWA)
-- [ ] Desktop application (Electron, Tauri, etc.)
+- [ ] Desktop application
 - [ ] CLI / Terminal tools
 - [ ] Backend services only (no UI)
 - [ ] Browser extension
-- [ ] Telegram mini apps
-- [ ] Discord bots
+- [ ] Farcaster mini apps
 - [ ] Other: _______
 
 ### 3.2 What is your PRIMARY target platform?
@@ -168,14 +167,11 @@ This survey aims to understand the tools, practices, and challenges faced by Eth
 
 **Layer 2s**
 - [ ] Arbitrum One
-- [ ] Optimism
 - [ ] Base
-- [ ] Polygon zkEVM
-- [ ] zkSync Era
-- [ ] Linea
-- [ ] Scroll
+- [ ] Optimism
 - [ ] Starknet
-- [ ] Taiko
+- [ ] Linea
+- [ ] zkSync Era
 - [ ] Other L2s: _______
 
 **Other EVM Chains**
@@ -190,12 +186,11 @@ This survey aims to understand the tools, practices, and challenges faced by Eth
 ### 4.2 Which network is your PRIMARY development target?
 - [ ] Ethereum mainnet
 - [ ] Arbitrum One
-- [ ] Optimism
 - [ ] Base
-- [ ] Polygon zkEVM
-- [ ] zkSync Era
+- [ ] Optimism
+- [ ] Starknet
 - [ ] Linea
-- [ ] Scroll
+- [ ] zkSync Era
 - [ ] Other L2: _______
 - [ ] Other EVM chain: _______
 
