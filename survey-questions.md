@@ -59,7 +59,24 @@ This survey aims to understand the tools, practices, and challenges faced by Eth
 - [ ] Asia
 - [ ] Oceania
 
-### 1.6 How many hours per week do you spend on Ethereum development?
+### 1.6 What is your primary operating system for development?
+- [ ] macOS
+- [ ] Linux
+- [ ] Windows with WSL2
+- [ ] Windows (native)
+- [ ] Other: _______
+
+### 1.7 Which programming languages do you use for development? (Select all that apply)
+- [ ] TypeScript
+- [ ] JavaScript
+- [ ] Rust
+- [ ] Python
+- [ ] Go
+- [ ] Java
+- [ ] C# / .NET
+- [ ] Other: _______
+
+### 1.8 How many hours per week do you spend on Ethereum development?
 - [ ] Less than 10 hours
 - [ ] 10-20 hours
 - [ ] 20-40 hours
