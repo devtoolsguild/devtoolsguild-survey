@@ -137,25 +137,6 @@ This survey aims to understand the tools, practices, and challenges faced by Eth
 - [ ] Backend services only
 - [ ] Other: _______
 
-### 3.3 How important is mobile support for your dApps?
-- [ ] Critical - mobile-first approach
-- [ ] Very important - equal to desktop
-- [ ] Somewhat important - secondary to desktop
-- [ ] Not important - desktop only
-- [ ] Not applicable
-
-### 3.4 Which mobile wallet integrations do you support? (Select all that apply)
-- [ ] MetaMask Mobile
-- [ ] Rainbow
-- [ ] Coinbase Wallet
-- [ ] Trust Wallet
-- [ ] WalletConnect compatible
-- [ ] Safe
-- [ ] Zerion
-- [ ] Embedded wallet (Privy, Dynamic, etc.)
-- [ ] Not applicable
-- [ ] Other: _______
-
 ---
 
 ## Section 4: Target Networks
@@ -355,18 +336,6 @@ This survey aims to understand the tools, practices, and challenges faced by Eth
 - [ ] Privy
 - [ ] Thirdweb Connect
 - [ ] Custom implementation
-- [ ] Other: _______
-
-### 7.6 Do you use embedded/smart wallets? (Select all that apply)
-- [ ] Privy embedded wallets
-- [ ] Dynamic embedded wallets
-- [ ] Thirdweb embedded wallets
-- [ ] Coinbase Smart Wallet
-- [ ] Safe Smart Accounts
-- [ ] ZeroDev
-- [ ] Alchemy Account Kit
-- [ ] Biconomy
-- [ ] No, EOA only
 - [ ] Other: _______
 
 ---
@@ -583,12 +552,17 @@ This survey aims to understand the tools, practices, and challenges faced by Eth
 - [ ] No, but interested
 - [ ] No, not interested
 
-### 11.4 Have you donated to or funded Ethereum developer tools? (Select all that apply)
+### 11.4 Have you contributed to open source Ethereum developer tools?
+- [ ] Yes, regularly
+- [ ] Yes, occasionally
+- [ ] No, but interested
+- [ ] No, not interested
+
+### 11.5 Have you donated to or funded Ethereum developer tools? (Select all that apply)
 - [ ] Gitcoin Grants
 - [ ] Octant
 - [ ] Dev Tools Guild
 - [ ] Direct donations to projects
-- [ ] No, but interested
 - [ ] No
 - [ ] Other: _______
 
@@ -596,30 +570,12 @@ This survey aims to understand the tools, practices, and challenges faced by Eth
 
 ## Section 12: Future Outlook
 
-### 12.1 Which technologies are you most excited about? (Select up to 3)
-- [ ] Account abstraction / Smart wallets
-- [ ] Zero-knowledge proofs / zkEVM
-- [ ] Cross-chain interoperability
-- [ ] Decentralized identity
-- [ ] AI + blockchain integration
-- [ ] Real World Assets (RWA)
-- [ ] DeFi innovations
-- [ ] DAOs and governance
-- [ ] Other: _______
-
-### 12.2 How do you feel about the state of Ethereum developer tooling?
+### 12.1 How do you feel about the state of Ethereum developer tooling?
 - [ ] Excellent - best it's ever been
 - [ ] Good - significant improvements
 - [ ] Adequate - meets basic needs
 - [ ] Needs improvement
 - [ ] Poor - major gaps
-
-### 12.3 How optimistic are you about Ethereum's future?
-- [ ] Very optimistic
-- [ ] Somewhat optimistic
-- [ ] Neutral
-- [ ] Somewhat pessimistic
-- [ ] Very pessimistic
 
 ---
 
