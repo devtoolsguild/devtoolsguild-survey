@@ -223,6 +223,7 @@ This survey aims to understand the tools, practices, and challenges faced by Eth
 - [ ] Foundry
 - [ ] Hardhat
 - [ ] Ape
+- [ ] Scaffold-ETH
 - [ ] Remix
 - [ ] Other: _______
 
@@ -233,7 +234,16 @@ This survey aims to understand the tools, practices, and challenges faced by Eth
 - [ ] Dissatisfied
 - [ ] Very dissatisfied
 
-### 5.4 Which code editor/IDE do you use for smart contract development?
+### 5.4 Which Ethereum client libraries do you use? (Select all that apply)
+- [ ] alloy (Rust)
+- [ ] ethers.js
+- [ ] Nethereum (.NET)
+- [ ] viem
+- [ ] web3.py
+- [ ] Web3j (Java)
+- [ ] Other: _______
+
+### 5.5 Which code editor/IDE do you use for smart contract development?
 - [ ] VS Code
 - [ ] Cursor
 - [ ] Vim / Neovim
@@ -244,7 +254,7 @@ This survey aims to understand the tools, practices, and challenges faced by Eth
 - [ ] Emacs
 - [ ] Other: _______
 
-### 5.5 Which Solidity/Vyper extensions do you use? (Select all that apply)
+### 5.6 Which Solidity/Vyper extensions do you use? (Select all that apply)
 - [ ] Solidity (Juan Blanco) - VS Code
 - [ ] Hardhat Solidity - VS Code
 - [ ] Solidity Visual Developer
@@ -252,7 +262,7 @@ This survey aims to understand the tools, practices, and challenges faced by Eth
 - [ ] None
 - [ ] Other: _______
 
-### 5.6 Which contract libraries do you use? (Select all that apply)
+### 5.7 Which contract libraries do you use? (Select all that apply)
 - [ ] OpenZeppelin Contracts
 - [ ] Solady
 - [ ] Solmate
