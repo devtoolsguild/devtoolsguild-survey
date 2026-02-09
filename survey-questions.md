@@ -588,6 +588,15 @@ This survey aims to understand the tools, practices, and challenges faced by Eth
 - [ ] No, but interested
 - [ ] No, not interested
 
+### 11.4 Have you donated to or funded Ethereum developer tools? (Select all that apply)
+- [ ] Gitcoin Grants
+- [ ] Octant
+- [ ] Dev Tools Guild
+- [ ] Direct donations to projects
+- [ ] No, but interested
+- [ ] No
+- [ ] Other: _______
+
 ---
 
 ## Section 12: Future Outlook
